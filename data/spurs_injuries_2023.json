@@ -1,0 +1,6540 @@
+{
+  "get": "injuries",
+  "parameters": {
+    "team": "47",
+    "league": "39",
+    "season": "2023"
+  },
+  "errors": [],
+  "results": 233,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 863,
+        "name": "R. Bentancur",
+        "photo": "https://media.api-sports.io/football/players/863.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035044,
+        "timezone": "UTC",
+        "date": "2023-08-13T13:00:00+00:00",
+        "timestamp": 1691931600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 2061,
+        "name": "B. Gil",
+        "photo": "https://media.api-sports.io/football/players/2061.png",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035044,
+        "timezone": "UTC",
+        "date": "2023-08-13T13:00:00+00:00",
+        "timestamp": 1691931600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035044,
+        "timezone": "UTC",
+        "date": "2023-08-13T13:00:00+00:00",
+        "timestamp": 1691931600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035044,
+        "timezone": "UTC",
+        "date": "2023-08-13T13:00:00+00:00",
+        "timestamp": 1691931600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18932,
+        "name": "F. Forster",
+        "photo": "https://media.api-sports.io/football/players/18932.png",
+        "type": "Questionable",
+        "reason": "Back Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035044,
+        "timezone": "UTC",
+        "date": "2023-08-13T13:00:00+00:00",
+        "timestamp": 1691931600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 662,
+        "name": "T. Ndombele",
+        "photo": "https://media.api-sports.io/football/players/662.png",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035044,
+        "timezone": "UTC",
+        "date": "2023-08-13T13:00:00+00:00",
+        "timestamp": 1691931600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 863,
+        "name": "R. Bentancur",
+        "photo": "https://media.api-sports.io/football/players/863.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035054,
+        "timezone": "UTC",
+        "date": "2023-08-19T16:30:00+00:00",
+        "timestamp": 1692462600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 2061,
+        "name": "B. Gil",
+        "photo": "https://media.api-sports.io/football/players/2061.png",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035054,
+        "timezone": "UTC",
+        "date": "2023-08-19T16:30:00+00:00",
+        "timestamp": 1692462600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035054,
+        "timezone": "UTC",
+        "date": "2023-08-19T16:30:00+00:00",
+        "timestamp": 1692462600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035054,
+        "timezone": "UTC",
+        "date": "2023-08-19T16:30:00+00:00",
+        "timestamp": 1692462600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 662,
+        "name": "T. Ndombele",
+        "photo": "https://media.api-sports.io/football/players/662.png",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035054,
+        "timezone": "UTC",
+        "date": "2023-08-19T16:30:00+00:00",
+        "timestamp": 1692462600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 863,
+        "name": "R. Bentancur",
+        "photo": "https://media.api-sports.io/football/players/863.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035057,
+        "timezone": "UTC",
+        "date": "2023-08-26T11:30:00+00:00",
+        "timestamp": 1693049400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 2061,
+        "name": "B. Gil",
+        "photo": "https://media.api-sports.io/football/players/2061.png",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035057,
+        "timezone": "UTC",
+        "date": "2023-08-26T11:30:00+00:00",
+        "timestamp": 1693049400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035057,
+        "timezone": "UTC",
+        "date": "2023-08-26T11:30:00+00:00",
+        "timestamp": 1693049400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035057,
+        "timezone": "UTC",
+        "date": "2023-08-26T11:30:00+00:00",
+        "timestamp": 1693049400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 863,
+        "name": "R. Bentancur",
+        "photo": "https://media.api-sports.io/football/players/863.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035070,
+        "timezone": "UTC",
+        "date": "2023-09-02T14:00:00+00:00",
+        "timestamp": 1693663200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 2061,
+        "name": "B. Gil",
+        "photo": "https://media.api-sports.io/football/players/2061.png",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035070,
+        "timezone": "UTC",
+        "date": "2023-09-02T14:00:00+00:00",
+        "timestamp": 1693663200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 1578,
+        "name": "G. Lo Celso",
+        "photo": "https://media.api-sports.io/football/players/1578.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035070,
+        "timezone": "UTC",
+        "date": "2023-09-02T14:00:00+00:00",
+        "timestamp": 1693663200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035070,
+        "timezone": "UTC",
+        "date": "2023-09-02T14:00:00+00:00",
+        "timestamp": 1693663200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035070,
+        "timezone": "UTC",
+        "date": "2023-09-02T14:00:00+00:00",
+        "timestamp": 1693663200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 863,
+        "name": "R. Bentancur",
+        "photo": "https://media.api-sports.io/football/players/863.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035084,
+        "timezone": "UTC",
+        "date": "2023-09-16T14:00:00+00:00",
+        "timestamp": 1694872800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 2061,
+        "name": "B. Gil",
+        "photo": "https://media.api-sports.io/football/players/2061.png",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035084,
+        "timezone": "UTC",
+        "date": "2023-09-16T14:00:00+00:00",
+        "timestamp": 1694872800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035084,
+        "timezone": "UTC",
+        "date": "2023-09-16T14:00:00+00:00",
+        "timestamp": 1694872800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035084,
+        "timezone": "UTC",
+        "date": "2023-09-16T14:00:00+00:00",
+        "timestamp": 1694872800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 1578,
+        "name": "G. Lo Celso",
+        "photo": "https://media.api-sports.io/football/players/1578.png",
+        "type": "Questionable",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035084,
+        "timezone": "UTC",
+        "date": "2023-09-16T14:00:00+00:00",
+        "timestamp": 1694872800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 863,
+        "name": "R. Bentancur",
+        "photo": "https://media.api-sports.io/football/players/863.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035087,
+        "timezone": "UTC",
+        "date": "2023-09-24T13:00:00+00:00",
+        "timestamp": 1695560400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 2061,
+        "name": "B. Gil",
+        "photo": "https://media.api-sports.io/football/players/2061.png",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035087,
+        "timezone": "UTC",
+        "date": "2023-09-24T13:00:00+00:00",
+        "timestamp": 1695560400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 207,
+        "name": "I. Perisic",
+        "photo": "https://media.api-sports.io/football/players/207.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035087,
+        "timezone": "UTC",
+        "date": "2023-09-24T13:00:00+00:00",
+        "timestamp": 1695560400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035087,
+        "timezone": "UTC",
+        "date": "2023-09-24T13:00:00+00:00",
+        "timestamp": 1695560400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035087,
+        "timezone": "UTC",
+        "date": "2023-09-24T13:00:00+00:00",
+        "timestamp": 1695560400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 1578,
+        "name": "G. Lo Celso",
+        "photo": "https://media.api-sports.io/football/players/1578.png",
+        "type": "Questionable",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035087,
+        "timezone": "UTC",
+        "date": "2023-09-24T13:00:00+00:00",
+        "timestamp": 1695560400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 863,
+        "name": "R. Bentancur",
+        "photo": "https://media.api-sports.io/football/players/863.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035104,
+        "timezone": "UTC",
+        "date": "2023-09-30T16:30:00+00:00",
+        "timestamp": 1696091400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 2061,
+        "name": "B. Gil",
+        "photo": "https://media.api-sports.io/football/players/2061.png",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035104,
+        "timezone": "UTC",
+        "date": "2023-09-30T16:30:00+00:00",
+        "timestamp": 1696091400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 207,
+        "name": "I. Perisic",
+        "photo": "https://media.api-sports.io/football/players/207.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035104,
+        "timezone": "UTC",
+        "date": "2023-09-30T16:30:00+00:00",
+        "timestamp": 1696091400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035104,
+        "timezone": "UTC",
+        "date": "2023-09-30T16:30:00+00:00",
+        "timestamp": 1696091400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035104,
+        "timezone": "UTC",
+        "date": "2023-09-30T16:30:00+00:00",
+        "timestamp": 1696091400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 129711,
+        "name": "B. Johnson",
+        "photo": "https://media.api-sports.io/football/players/129711.png",
+        "type": "Questionable",
+        "reason": "Leg Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035104,
+        "timezone": "UTC",
+        "date": "2023-09-30T16:30:00+00:00",
+        "timestamp": 1696091400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 1578,
+        "name": "G. Lo Celso",
+        "photo": "https://media.api-sports.io/football/players/1578.png",
+        "type": "Questionable",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035104,
+        "timezone": "UTC",
+        "date": "2023-09-30T16:30:00+00:00",
+        "timestamp": 1696091400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 863,
+        "name": "R. Bentancur",
+        "photo": "https://media.api-sports.io/football/players/863.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035113,
+        "timezone": "UTC",
+        "date": "2023-10-07T11:30:00+00:00",
+        "timestamp": 1696678200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 207,
+        "name": "I. Perisic",
+        "photo": "https://media.api-sports.io/football/players/207.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035113,
+        "timezone": "UTC",
+        "date": "2023-10-07T11:30:00+00:00",
+        "timestamp": 1696678200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035113,
+        "timezone": "UTC",
+        "date": "2023-10-07T11:30:00+00:00",
+        "timestamp": 1696678200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035113,
+        "timezone": "UTC",
+        "date": "2023-10-07T11:30:00+00:00",
+        "timestamp": 1696678200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035113,
+        "timezone": "UTC",
+        "date": "2023-10-07T11:30:00+00:00",
+        "timestamp": 1696678200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 129711,
+        "name": "B. Johnson",
+        "photo": "https://media.api-sports.io/football/players/129711.png",
+        "type": "Questionable",
+        "reason": "Leg Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035113,
+        "timezone": "UTC",
+        "date": "2023-10-07T11:30:00+00:00",
+        "timestamp": 1696678200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 863,
+        "name": "R. Bentancur",
+        "photo": "https://media.api-sports.io/football/players/863.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035126,
+        "timezone": "UTC",
+        "date": "2023-10-23T19:00:00+00:00",
+        "timestamp": 1698087600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18968,
+        "name": "Y. Bissouma",
+        "photo": "https://media.api-sports.io/football/players/18968.png",
+        "type": "Missing Fixture",
+        "reason": "Red Card"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035126,
+        "timezone": "UTC",
+        "date": "2023-10-23T19:00:00+00:00",
+        "timestamp": 1698087600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 207,
+        "name": "I. Perisic",
+        "photo": "https://media.api-sports.io/football/players/207.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035126,
+        "timezone": "UTC",
+        "date": "2023-10-23T19:00:00+00:00",
+        "timestamp": 1698087600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035126,
+        "timezone": "UTC",
+        "date": "2023-10-23T19:00:00+00:00",
+        "timestamp": 1698087600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035126,
+        "timezone": "UTC",
+        "date": "2023-10-23T19:00:00+00:00",
+        "timestamp": 1698087600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035126,
+        "timezone": "UTC",
+        "date": "2023-10-23T19:00:00+00:00",
+        "timestamp": 1698087600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 207,
+        "name": "I. Perisic",
+        "photo": "https://media.api-sports.io/football/players/207.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035132,
+        "timezone": "UTC",
+        "date": "2023-10-27T19:00:00+00:00",
+        "timestamp": 1698433200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035132,
+        "timezone": "UTC",
+        "date": "2023-10-27T19:00:00+00:00",
+        "timestamp": 1698433200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035132,
+        "timezone": "UTC",
+        "date": "2023-10-27T19:00:00+00:00",
+        "timestamp": 1698433200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035132,
+        "timezone": "UTC",
+        "date": "2023-10-27T19:00:00+00:00",
+        "timestamp": 1698433200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 204039,
+        "name": "D. Udogie",
+        "photo": "https://media.api-sports.io/football/players/204039.png",
+        "type": "Questionable",
+        "reason": "Muscle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035132,
+        "timezone": "UTC",
+        "date": "2023-10-27T19:00:00+00:00",
+        "timestamp": 1698433200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 207,
+        "name": "I. Perisic",
+        "photo": "https://media.api-sports.io/football/players/207.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035146,
+        "timezone": "UTC",
+        "date": "2023-11-06T20:00:00+00:00",
+        "timestamp": 1699300800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035146,
+        "timezone": "UTC",
+        "date": "2023-11-06T20:00:00+00:00",
+        "timestamp": 1699300800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035146,
+        "timezone": "UTC",
+        "date": "2023-11-06T20:00:00+00:00",
+        "timestamp": 1699300800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035146,
+        "timezone": "UTC",
+        "date": "2023-11-06T20:00:00+00:00",
+        "timestamp": 1699300800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 164,
+        "name": "B. Davies",
+        "photo": "https://media.api-sports.io/football/players/164.png",
+        "type": "Questionable",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035146,
+        "timezone": "UTC",
+        "date": "2023-11-06T20:00:00+00:00",
+        "timestamp": 1699300800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18784,
+        "name": "J. Maddison",
+        "photo": "https://media.api-sports.io/football/players/18784.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035156,
+        "timezone": "UTC",
+        "date": "2023-11-11T12:30:00+00:00",
+        "timestamp": 1699705800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 207,
+        "name": "I. Perisic",
+        "photo": "https://media.api-sports.io/football/players/207.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035156,
+        "timezone": "UTC",
+        "date": "2023-11-11T12:30:00+00:00",
+        "timestamp": 1699705800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 2413,
+        "name": "Richarlison",
+        "photo": "https://media.api-sports.io/football/players/2413.png",
+        "type": "Missing Fixture",
+        "reason": "Pelvis Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035156,
+        "timezone": "UTC",
+        "date": "2023-11-11T12:30:00+00:00",
+        "timestamp": 1699705800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 30776,
+        "name": "C. Romero",
+        "photo": "https://media.api-sports.io/football/players/30776.png",
+        "type": "Missing Fixture",
+        "reason": "Red Card"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035156,
+        "timezone": "UTC",
+        "date": "2023-11-11T12:30:00+00:00",
+        "timestamp": 1699705800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035156,
+        "timezone": "UTC",
+        "date": "2023-11-11T12:30:00+00:00",
+        "timestamp": 1699705800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035156,
+        "timezone": "UTC",
+        "date": "2023-11-11T12:30:00+00:00",
+        "timestamp": 1699705800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 204039,
+        "name": "D. Udogie",
+        "photo": "https://media.api-sports.io/football/players/204039.png",
+        "type": "Missing Fixture",
+        "reason": "Red Card"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035156,
+        "timezone": "UTC",
+        "date": "2023-11-11T12:30:00+00:00",
+        "timestamp": 1699705800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035156,
+        "timezone": "UTC",
+        "date": "2023-11-11T12:30:00+00:00",
+        "timestamp": 1699705800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 152849,
+        "name": "M. van de Ven",
+        "photo": "https://media.api-sports.io/football/players/152849.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035156,
+        "timezone": "UTC",
+        "date": "2023-11-11T12:30:00+00:00",
+        "timestamp": 1699705800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18968,
+        "name": "Y. Bissouma",
+        "photo": "https://media.api-sports.io/football/players/18968.png",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035303,
+        "timezone": "UTC",
+        "date": "2023-11-26T14:00:00+00:00",
+        "timestamp": 1701007200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18784,
+        "name": "J. Maddison",
+        "photo": "https://media.api-sports.io/football/players/18784.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035303,
+        "timezone": "UTC",
+        "date": "2023-11-26T14:00:00+00:00",
+        "timestamp": 1701007200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 207,
+        "name": "I. Perisic",
+        "photo": "https://media.api-sports.io/football/players/207.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035303,
+        "timezone": "UTC",
+        "date": "2023-11-26T14:00:00+00:00",
+        "timestamp": 1701007200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 2413,
+        "name": "Richarlison",
+        "photo": "https://media.api-sports.io/football/players/2413.png",
+        "type": "Missing Fixture",
+        "reason": "Pelvis Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035303,
+        "timezone": "UTC",
+        "date": "2023-11-26T14:00:00+00:00",
+        "timestamp": 1701007200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 30776,
+        "name": "C. Romero",
+        "photo": "https://media.api-sports.io/football/players/30776.png",
+        "type": "Missing Fixture",
+        "reason": "Red Card"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035303,
+        "timezone": "UTC",
+        "date": "2023-11-26T14:00:00+00:00",
+        "timestamp": 1701007200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035303,
+        "timezone": "UTC",
+        "date": "2023-11-26T14:00:00+00:00",
+        "timestamp": 1701007200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035303,
+        "timezone": "UTC",
+        "date": "2023-11-26T14:00:00+00:00",
+        "timestamp": 1701007200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035303,
+        "timezone": "UTC",
+        "date": "2023-11-26T14:00:00+00:00",
+        "timestamp": 1701007200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 152849,
+        "name": "M. van de Ven",
+        "photo": "https://media.api-sports.io/football/players/152849.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035303,
+        "timezone": "UTC",
+        "date": "2023-11-26T14:00:00+00:00",
+        "timestamp": 1701007200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 237129,
+        "name": "P. M. Sarr",
+        "photo": "https://media.api-sports.io/football/players/237129.png",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035303,
+        "timezone": "UTC",
+        "date": "2023-11-26T14:00:00+00:00",
+        "timestamp": 1701007200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 863,
+        "name": "R. Bentancur",
+        "photo": "https://media.api-sports.io/football/players/863.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035310,
+        "timezone": "UTC",
+        "date": "2023-12-03T16:30:00+00:00",
+        "timestamp": 1701621000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18784,
+        "name": "J. Maddison",
+        "photo": "https://media.api-sports.io/football/players/18784.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035310,
+        "timezone": "UTC",
+        "date": "2023-12-03T16:30:00+00:00",
+        "timestamp": 1701621000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 207,
+        "name": "I. Perisic",
+        "photo": "https://media.api-sports.io/football/players/207.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035310,
+        "timezone": "UTC",
+        "date": "2023-12-03T16:30:00+00:00",
+        "timestamp": 1701621000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 30776,
+        "name": "C. Romero",
+        "photo": "https://media.api-sports.io/football/players/30776.png",
+        "type": "Missing Fixture",
+        "reason": "Red Card"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035310,
+        "timezone": "UTC",
+        "date": "2023-12-03T16:30:00+00:00",
+        "timestamp": 1701621000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035310,
+        "timezone": "UTC",
+        "date": "2023-12-03T16:30:00+00:00",
+        "timestamp": 1701621000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035310,
+        "timezone": "UTC",
+        "date": "2023-12-03T16:30:00+00:00",
+        "timestamp": 1701621000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035310,
+        "timezone": "UTC",
+        "date": "2023-12-03T16:30:00+00:00",
+        "timestamp": 1701621000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 152849,
+        "name": "M. van de Ven",
+        "photo": "https://media.api-sports.io/football/players/152849.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035310,
+        "timezone": "UTC",
+        "date": "2023-12-03T16:30:00+00:00",
+        "timestamp": 1701621000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 237129,
+        "name": "P. M. Sarr",
+        "photo": "https://media.api-sports.io/football/players/237129.png",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035310,
+        "timezone": "UTC",
+        "date": "2023-12-03T16:30:00+00:00",
+        "timestamp": 1701621000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 863,
+        "name": "R. Bentancur",
+        "photo": "https://media.api-sports.io/football/players/863.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035320,
+        "timezone": "UTC",
+        "date": "2023-12-07T20:15:00+00:00",
+        "timestamp": 1701980100
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 175,
+        "name": "E. Dier",
+        "photo": "https://media.api-sports.io/football/players/175.png",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035320,
+        "timezone": "UTC",
+        "date": "2023-12-07T20:15:00+00:00",
+        "timestamp": 1701980100
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18784,
+        "name": "J. Maddison",
+        "photo": "https://media.api-sports.io/football/players/18784.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035320,
+        "timezone": "UTC",
+        "date": "2023-12-07T20:15:00+00:00",
+        "timestamp": 1701980100
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 207,
+        "name": "I. Perisic",
+        "photo": "https://media.api-sports.io/football/players/207.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035320,
+        "timezone": "UTC",
+        "date": "2023-12-07T20:15:00+00:00",
+        "timestamp": 1701980100
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035320,
+        "timezone": "UTC",
+        "date": "2023-12-07T20:15:00+00:00",
+        "timestamp": 1701980100
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035320,
+        "timezone": "UTC",
+        "date": "2023-12-07T20:15:00+00:00",
+        "timestamp": 1701980100
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035320,
+        "timezone": "UTC",
+        "date": "2023-12-07T20:15:00+00:00",
+        "timestamp": 1701980100
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 152849,
+        "name": "M. van de Ven",
+        "photo": "https://media.api-sports.io/football/players/152849.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035320,
+        "timezone": "UTC",
+        "date": "2023-12-07T20:15:00+00:00",
+        "timestamp": 1701980100
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 863,
+        "name": "R. Bentancur",
+        "photo": "https://media.api-sports.io/football/players/863.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035332,
+        "timezone": "UTC",
+        "date": "2023-12-10T16:30:00+00:00",
+        "timestamp": 1702225800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 175,
+        "name": "E. Dier",
+        "photo": "https://media.api-sports.io/football/players/175.png",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035332,
+        "timezone": "UTC",
+        "date": "2023-12-10T16:30:00+00:00",
+        "timestamp": 1702225800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18784,
+        "name": "J. Maddison",
+        "photo": "https://media.api-sports.io/football/players/18784.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035332,
+        "timezone": "UTC",
+        "date": "2023-12-10T16:30:00+00:00",
+        "timestamp": 1702225800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 207,
+        "name": "I. Perisic",
+        "photo": "https://media.api-sports.io/football/players/207.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035332,
+        "timezone": "UTC",
+        "date": "2023-12-10T16:30:00+00:00",
+        "timestamp": 1702225800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035332,
+        "timezone": "UTC",
+        "date": "2023-12-10T16:30:00+00:00",
+        "timestamp": 1702225800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035332,
+        "timezone": "UTC",
+        "date": "2023-12-10T16:30:00+00:00",
+        "timestamp": 1702225800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035332,
+        "timezone": "UTC",
+        "date": "2023-12-10T16:30:00+00:00",
+        "timestamp": 1702225800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 152849,
+        "name": "M. van de Ven",
+        "photo": "https://media.api-sports.io/football/players/152849.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035332,
+        "timezone": "UTC",
+        "date": "2023-12-10T16:30:00+00:00",
+        "timestamp": 1702225800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 863,
+        "name": "R. Bentancur",
+        "photo": "https://media.api-sports.io/football/players/863.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035342,
+        "timezone": "UTC",
+        "date": "2023-12-15T20:00:00+00:00",
+        "timestamp": 1702670400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18784,
+        "name": "J. Maddison",
+        "photo": "https://media.api-sports.io/football/players/18784.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035342,
+        "timezone": "UTC",
+        "date": "2023-12-15T20:00:00+00:00",
+        "timestamp": 1702670400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 207,
+        "name": "I. Perisic",
+        "photo": "https://media.api-sports.io/football/players/207.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035342,
+        "timezone": "UTC",
+        "date": "2023-12-15T20:00:00+00:00",
+        "timestamp": 1702670400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035342,
+        "timezone": "UTC",
+        "date": "2023-12-15T20:00:00+00:00",
+        "timestamp": 1702670400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035342,
+        "timezone": "UTC",
+        "date": "2023-12-15T20:00:00+00:00",
+        "timestamp": 1702670400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035342,
+        "timezone": "UTC",
+        "date": "2023-12-15T20:00:00+00:00",
+        "timestamp": 1702670400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 152849,
+        "name": "M. van de Ven",
+        "photo": "https://media.api-sports.io/football/players/152849.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035342,
+        "timezone": "UTC",
+        "date": "2023-12-15T20:00:00+00:00",
+        "timestamp": 1702670400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 1578,
+        "name": "G. Lo Celso",
+        "photo": "https://media.api-sports.io/football/players/1578.png",
+        "type": "Questionable",
+        "reason": "Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035342,
+        "timezone": "UTC",
+        "date": "2023-12-15T20:00:00+00:00",
+        "timestamp": 1702670400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 863,
+        "name": "R. Bentancur",
+        "photo": "https://media.api-sports.io/football/players/863.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035351,
+        "timezone": "UTC",
+        "date": "2023-12-23T15:00:00+00:00",
+        "timestamp": 1703343600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18968,
+        "name": "Y. Bissouma",
+        "photo": "https://media.api-sports.io/football/players/18968.png",
+        "type": "Missing Fixture",
+        "reason": "Red Card"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035351,
+        "timezone": "UTC",
+        "date": "2023-12-23T15:00:00+00:00",
+        "timestamp": 1703343600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18784,
+        "name": "J. Maddison",
+        "photo": "https://media.api-sports.io/football/players/18784.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035351,
+        "timezone": "UTC",
+        "date": "2023-12-23T15:00:00+00:00",
+        "timestamp": 1703343600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 207,
+        "name": "I. Perisic",
+        "photo": "https://media.api-sports.io/football/players/207.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035351,
+        "timezone": "UTC",
+        "date": "2023-12-23T15:00:00+00:00",
+        "timestamp": 1703343600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035351,
+        "timezone": "UTC",
+        "date": "2023-12-23T15:00:00+00:00",
+        "timestamp": 1703343600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035351,
+        "timezone": "UTC",
+        "date": "2023-12-23T15:00:00+00:00",
+        "timestamp": 1703343600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 204039,
+        "name": "D. Udogie",
+        "photo": "https://media.api-sports.io/football/players/204039.png",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035351,
+        "timezone": "UTC",
+        "date": "2023-12-23T15:00:00+00:00",
+        "timestamp": 1703343600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035351,
+        "timezone": "UTC",
+        "date": "2023-12-23T15:00:00+00:00",
+        "timestamp": 1703343600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 152849,
+        "name": "M. van de Ven",
+        "photo": "https://media.api-sports.io/football/players/152849.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035351,
+        "timezone": "UTC",
+        "date": "2023-12-23T15:00:00+00:00",
+        "timestamp": 1703343600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 863,
+        "name": "R. Bentancur",
+        "photo": "https://media.api-sports.io/football/players/863.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035357,
+        "timezone": "UTC",
+        "date": "2023-12-28T19:30:00+00:00",
+        "timestamp": 1703791800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18968,
+        "name": "Y. Bissouma",
+        "photo": "https://media.api-sports.io/football/players/18968.png",
+        "type": "Missing Fixture",
+        "reason": "Red Card"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035357,
+        "timezone": "UTC",
+        "date": "2023-12-28T19:30:00+00:00",
+        "timestamp": 1703791800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18784,
+        "name": "J. Maddison",
+        "photo": "https://media.api-sports.io/football/players/18784.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035357,
+        "timezone": "UTC",
+        "date": "2023-12-28T19:30:00+00:00",
+        "timestamp": 1703791800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 207,
+        "name": "I. Perisic",
+        "photo": "https://media.api-sports.io/football/players/207.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035357,
+        "timezone": "UTC",
+        "date": "2023-12-28T19:30:00+00:00",
+        "timestamp": 1703791800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 30776,
+        "name": "C. Romero",
+        "photo": "https://media.api-sports.io/football/players/30776.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035357,
+        "timezone": "UTC",
+        "date": "2023-12-28T19:30:00+00:00",
+        "timestamp": 1703791800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035357,
+        "timezone": "UTC",
+        "date": "2023-12-28T19:30:00+00:00",
+        "timestamp": 1703791800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035357,
+        "timezone": "UTC",
+        "date": "2023-12-28T19:30:00+00:00",
+        "timestamp": 1703791800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 161,
+        "name": "A. Whiteman",
+        "photo": "https://media.api-sports.io/football/players/161.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035357,
+        "timezone": "UTC",
+        "date": "2023-12-28T19:30:00+00:00",
+        "timestamp": 1703791800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 152849,
+        "name": "M. van de Ven",
+        "photo": "https://media.api-sports.io/football/players/152849.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035357,
+        "timezone": "UTC",
+        "date": "2023-12-28T19:30:00+00:00",
+        "timestamp": 1703791800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18968,
+        "name": "Y. Bissouma",
+        "photo": "https://media.api-sports.io/football/players/18968.png",
+        "type": "Missing Fixture",
+        "reason": "Red Card"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035371,
+        "timezone": "UTC",
+        "date": "2023-12-31T14:00:00+00:00",
+        "timestamp": 1704031200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 30435,
+        "name": "D. Kulusevski",
+        "photo": "https://media.api-sports.io/football/players/30435.png",
+        "type": "Missing Fixture",
+        "reason": "Yellow Cards"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035371,
+        "timezone": "UTC",
+        "date": "2023-12-31T14:00:00+00:00",
+        "timestamp": 1704031200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18784,
+        "name": "J. Maddison",
+        "photo": "https://media.api-sports.io/football/players/18784.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035371,
+        "timezone": "UTC",
+        "date": "2023-12-31T14:00:00+00:00",
+        "timestamp": 1704031200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 207,
+        "name": "I. Perisic",
+        "photo": "https://media.api-sports.io/football/players/207.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035371,
+        "timezone": "UTC",
+        "date": "2023-12-31T14:00:00+00:00",
+        "timestamp": 1704031200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 30776,
+        "name": "C. Romero",
+        "photo": "https://media.api-sports.io/football/players/30776.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035371,
+        "timezone": "UTC",
+        "date": "2023-12-31T14:00:00+00:00",
+        "timestamp": 1704031200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035371,
+        "timezone": "UTC",
+        "date": "2023-12-31T14:00:00+00:00",
+        "timestamp": 1704031200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035371,
+        "timezone": "UTC",
+        "date": "2023-12-31T14:00:00+00:00",
+        "timestamp": 1704031200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 152849,
+        "name": "M. van de Ven",
+        "photo": "https://media.api-sports.io/football/players/152849.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035371,
+        "timezone": "UTC",
+        "date": "2023-12-31T14:00:00+00:00",
+        "timestamp": 1704031200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18968,
+        "name": "Y. Bissouma",
+        "photo": "https://media.api-sports.io/football/players/18968.png",
+        "type": "Missing Fixture",
+        "reason": "National selection"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035381,
+        "timezone": "UTC",
+        "date": "2024-01-14T16:30:00+00:00",
+        "timestamp": 1705249800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 164,
+        "name": "B. Davies",
+        "photo": "https://media.api-sports.io/football/players/164.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035381,
+        "timezone": "UTC",
+        "date": "2024-01-14T16:30:00+00:00",
+        "timestamp": 1705249800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 1578,
+        "name": "G. Lo Celso",
+        "photo": "https://media.api-sports.io/football/players/1578.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035381,
+        "timezone": "UTC",
+        "date": "2024-01-14T16:30:00+00:00",
+        "timestamp": 1705249800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18784,
+        "name": "J. Maddison",
+        "photo": "https://media.api-sports.io/football/players/18784.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035381,
+        "timezone": "UTC",
+        "date": "2024-01-14T16:30:00+00:00",
+        "timestamp": 1705249800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 207,
+        "name": "I. Perisic",
+        "photo": "https://media.api-sports.io/football/players/207.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035381,
+        "timezone": "UTC",
+        "date": "2024-01-14T16:30:00+00:00",
+        "timestamp": 1705249800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 237129,
+        "name": "P. M. Sarr",
+        "photo": "https://media.api-sports.io/football/players/237129.png",
+        "type": "Missing Fixture",
+        "reason": "National selection"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035381,
+        "timezone": "UTC",
+        "date": "2024-01-14T16:30:00+00:00",
+        "timestamp": 1705249800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035381,
+        "timezone": "UTC",
+        "date": "2024-01-14T16:30:00+00:00",
+        "timestamp": 1705249800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 186,
+        "name": "Son Heung-Min",
+        "photo": "https://media.api-sports.io/football/players/186.png",
+        "type": "Missing Fixture",
+        "reason": "National selection"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035381,
+        "timezone": "UTC",
+        "date": "2024-01-14T16:30:00+00:00",
+        "timestamp": 1705249800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 311344,
+        "name": "A. Veliz",
+        "photo": "https://media.api-sports.io/football/players/311344.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035381,
+        "timezone": "UTC",
+        "date": "2024-01-14T16:30:00+00:00",
+        "timestamp": 1705249800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18968,
+        "name": "Y. Bissouma",
+        "photo": "https://media.api-sports.io/football/players/18968.png",
+        "type": "Missing Fixture",
+        "reason": "International duty"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035388,
+        "timezone": "UTC",
+        "date": "2024-01-31T19:30:00+00:00",
+        "timestamp": 1706729400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 237129,
+        "name": "P. M. Sarr",
+        "photo": "https://media.api-sports.io/football/players/237129.png",
+        "type": "Missing Fixture",
+        "reason": "International duty"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035388,
+        "timezone": "UTC",
+        "date": "2024-01-31T19:30:00+00:00",
+        "timestamp": 1706729400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035388,
+        "timezone": "UTC",
+        "date": "2024-01-31T19:30:00+00:00",
+        "timestamp": 1706729400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035388,
+        "timezone": "UTC",
+        "date": "2024-01-31T19:30:00+00:00",
+        "timestamp": 1706729400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 186,
+        "name": "Son Heung-Min",
+        "photo": "https://media.api-sports.io/football/players/186.png",
+        "type": "Missing Fixture",
+        "reason": "International duty"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035388,
+        "timezone": "UTC",
+        "date": "2024-01-31T19:30:00+00:00",
+        "timestamp": 1706729400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 311344,
+        "name": "A. Veliz",
+        "photo": "https://media.api-sports.io/football/players/311344.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035388,
+        "timezone": "UTC",
+        "date": "2024-01-31T19:30:00+00:00",
+        "timestamp": 1706729400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 1578,
+        "name": "G. Lo Celso",
+        "photo": "https://media.api-sports.io/football/players/1578.png",
+        "type": "Questionable",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035388,
+        "timezone": "UTC",
+        "date": "2024-01-31T19:30:00+00:00",
+        "timestamp": 1706729400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18968,
+        "name": "Y. Bissouma",
+        "photo": "https://media.api-sports.io/football/players/18968.png",
+        "type": "Missing Fixture",
+        "reason": "International duty"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035400,
+        "timezone": "UTC",
+        "date": "2024-02-03T12:30:00+00:00",
+        "timestamp": 1706963400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035400,
+        "timezone": "UTC",
+        "date": "2024-02-03T12:30:00+00:00",
+        "timestamp": 1706963400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035400,
+        "timezone": "UTC",
+        "date": "2024-02-03T12:30:00+00:00",
+        "timestamp": 1706963400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 186,
+        "name": "Son Heung-Min",
+        "photo": "https://media.api-sports.io/football/players/186.png",
+        "type": "Missing Fixture",
+        "reason": "International duty"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035400,
+        "timezone": "UTC",
+        "date": "2024-02-03T12:30:00+00:00",
+        "timestamp": 1706963400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 1578,
+        "name": "G. Lo Celso",
+        "photo": "https://media.api-sports.io/football/players/1578.png",
+        "type": "Questionable",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035400,
+        "timezone": "UTC",
+        "date": "2024-02-03T12:30:00+00:00",
+        "timestamp": 1706963400
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035411,
+        "timezone": "UTC",
+        "date": "2024-02-10T15:00:00+00:00",
+        "timestamp": 1707577200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035411,
+        "timezone": "UTC",
+        "date": "2024-02-10T15:00:00+00:00",
+        "timestamp": 1707577200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18932,
+        "name": "F. Forster",
+        "photo": "https://media.api-sports.io/football/players/18932.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035423,
+        "timezone": "UTC",
+        "date": "2024-02-17T15:00:00+00:00",
+        "timestamp": 1708182000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 47519,
+        "name": "P. Porro",
+        "photo": "https://media.api-sports.io/football/players/47519.png",
+        "type": "Missing Fixture",
+        "reason": "Muscle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035423,
+        "timezone": "UTC",
+        "date": "2024-02-17T15:00:00+00:00",
+        "timestamp": 1708182000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035423,
+        "timezone": "UTC",
+        "date": "2024-02-17T15:00:00+00:00",
+        "timestamp": 1708182000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035423,
+        "timezone": "UTC",
+        "date": "2024-02-17T15:00:00+00:00",
+        "timestamp": 1708182000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 204039,
+        "name": "D. Udogie",
+        "photo": "https://media.api-sports.io/football/players/204039.png",
+        "type": "Missing Fixture",
+        "reason": "Knock"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035423,
+        "timezone": "UTC",
+        "date": "2024-02-17T15:00:00+00:00",
+        "timestamp": 1708182000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18932,
+        "name": "F. Forster",
+        "photo": "https://media.api-sports.io/football/players/18932.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035443,
+        "timezone": "UTC",
+        "date": "2024-03-02T15:00:00+00:00",
+        "timestamp": 1709391600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 2413,
+        "name": "Richarlison",
+        "photo": "https://media.api-sports.io/football/players/2413.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035443,
+        "timezone": "UTC",
+        "date": "2024-03-02T15:00:00+00:00",
+        "timestamp": 1709391600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035443,
+        "timezone": "UTC",
+        "date": "2024-03-02T15:00:00+00:00",
+        "timestamp": 1709391600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035443,
+        "timezone": "UTC",
+        "date": "2024-03-02T15:00:00+00:00",
+        "timestamp": 1709391600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 47519,
+        "name": "P. Porro",
+        "photo": "https://media.api-sports.io/football/players/47519.png",
+        "type": "Questionable",
+        "reason": "Muscle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035443,
+        "timezone": "UTC",
+        "date": "2024-03-02T15:00:00+00:00",
+        "timestamp": 1709391600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18932,
+        "name": "F. Forster",
+        "photo": "https://media.api-sports.io/football/players/18932.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035446,
+        "timezone": "UTC",
+        "date": "2024-03-10T13:00:00+00:00",
+        "timestamp": 1710075600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035446,
+        "timezone": "UTC",
+        "date": "2024-03-10T13:00:00+00:00",
+        "timestamp": 1710075600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035446,
+        "timezone": "UTC",
+        "date": "2024-03-10T13:00:00+00:00",
+        "timestamp": 1710075600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 2413,
+        "name": "Richarlison",
+        "photo": "https://media.api-sports.io/football/players/2413.png",
+        "type": "Questionable",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035446,
+        "timezone": "UTC",
+        "date": "2024-03-10T13:00:00+00:00",
+        "timestamp": 1710075600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18932,
+        "name": "F. Forster",
+        "photo": "https://media.api-sports.io/football/players/18932.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035459,
+        "timezone": "UTC",
+        "date": "2024-03-16T17:30:00+00:00",
+        "timestamp": 1710610200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035459,
+        "timezone": "UTC",
+        "date": "2024-03-16T17:30:00+00:00",
+        "timestamp": 1710610200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035459,
+        "timezone": "UTC",
+        "date": "2024-03-16T17:30:00+00:00",
+        "timestamp": 1710610200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 152849,
+        "name": "M. van de Ven",
+        "photo": "https://media.api-sports.io/football/players/152849.png",
+        "type": "Missing Fixture",
+        "reason": "Hamstring Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035459,
+        "timezone": "UTC",
+        "date": "2024-03-16T17:30:00+00:00",
+        "timestamp": 1710610200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18932,
+        "name": "F. Forster",
+        "photo": "https://media.api-sports.io/football/players/18932.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035473,
+        "timezone": "UTC",
+        "date": "2024-03-30T15:00:00+00:00",
+        "timestamp": 1711810800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035473,
+        "timezone": "UTC",
+        "date": "2024-03-30T15:00:00+00:00",
+        "timestamp": 1711810800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035473,
+        "timezone": "UTC",
+        "date": "2024-03-30T15:00:00+00:00",
+        "timestamp": 1711810800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18932,
+        "name": "F. Forster",
+        "photo": "https://media.api-sports.io/football/players/18932.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035479,
+        "timezone": "UTC",
+        "date": "2024-04-02T19:15:00+00:00",
+        "timestamp": 1712085300
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035479,
+        "timezone": "UTC",
+        "date": "2024-04-02T19:15:00+00:00",
+        "timestamp": 1712085300
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035479,
+        "timezone": "UTC",
+        "date": "2024-04-02T19:15:00+00:00",
+        "timestamp": 1712085300
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18932,
+        "name": "F. Forster",
+        "photo": "https://media.api-sports.io/football/players/18932.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035492,
+        "timezone": "UTC",
+        "date": "2024-04-07T17:00:00+00:00",
+        "timestamp": 1712509200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 2413,
+        "name": "Richarlison",
+        "photo": "https://media.api-sports.io/football/players/2413.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035492,
+        "timezone": "UTC",
+        "date": "2024-04-07T17:00:00+00:00",
+        "timestamp": 1712509200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035492,
+        "timezone": "UTC",
+        "date": "2024-04-07T17:00:00+00:00",
+        "timestamp": 1712509200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035492,
+        "timezone": "UTC",
+        "date": "2024-04-07T17:00:00+00:00",
+        "timestamp": 1712509200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18932,
+        "name": "F. Forster",
+        "photo": "https://media.api-sports.io/football/players/18932.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035501,
+        "timezone": "UTC",
+        "date": "2024-04-13T11:30:00+00:00",
+        "timestamp": 1713007800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 2413,
+        "name": "Richarlison",
+        "photo": "https://media.api-sports.io/football/players/2413.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035501,
+        "timezone": "UTC",
+        "date": "2024-04-13T11:30:00+00:00",
+        "timestamp": 1713007800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035501,
+        "timezone": "UTC",
+        "date": "2024-04-13T11:30:00+00:00",
+        "timestamp": 1713007800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035501,
+        "timezone": "UTC",
+        "date": "2024-04-13T11:30:00+00:00",
+        "timestamp": 1713007800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18932,
+        "name": "F. Forster",
+        "photo": "https://media.api-sports.io/football/players/18932.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035521,
+        "timezone": "UTC",
+        "date": "2024-04-28T13:00:00+00:00",
+        "timestamp": 1714309200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035521,
+        "timezone": "UTC",
+        "date": "2024-04-28T13:00:00+00:00",
+        "timestamp": 1714309200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035521,
+        "timezone": "UTC",
+        "date": "2024-04-28T13:00:00+00:00",
+        "timestamp": 1714309200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 204039,
+        "name": "D. Udogie",
+        "photo": "https://media.api-sports.io/football/players/204039.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035521,
+        "timezone": "UTC",
+        "date": "2024-04-28T13:00:00+00:00",
+        "timestamp": 1714309200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 180,
+        "name": "O. Skipp",
+        "photo": "https://media.api-sports.io/football/players/180.png",
+        "type": "Questionable",
+        "reason": "Knock"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035521,
+        "timezone": "UTC",
+        "date": "2024-04-28T13:00:00+00:00",
+        "timestamp": 1714309200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 164,
+        "name": "B. Davies",
+        "photo": "https://media.api-sports.io/football/players/164.png",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035428,
+        "timezone": "UTC",
+        "date": "2024-05-02T18:30:00+00:00",
+        "timestamp": 1714674600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18932,
+        "name": "F. Forster",
+        "photo": "https://media.api-sports.io/football/players/18932.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035428,
+        "timezone": "UTC",
+        "date": "2024-05-02T18:30:00+00:00",
+        "timestamp": 1714674600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035428,
+        "timezone": "UTC",
+        "date": "2024-05-02T18:30:00+00:00",
+        "timestamp": 1714674600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035428,
+        "timezone": "UTC",
+        "date": "2024-05-02T18:30:00+00:00",
+        "timestamp": 1714674600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 204039,
+        "name": "D. Udogie",
+        "photo": "https://media.api-sports.io/football/players/204039.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035428,
+        "timezone": "UTC",
+        "date": "2024-05-02T18:30:00+00:00",
+        "timestamp": 1714674600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 1166,
+        "name": "T. Werner",
+        "photo": "https://media.api-sports.io/football/players/1166.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035428,
+        "timezone": "UTC",
+        "date": "2024-05-02T18:30:00+00:00",
+        "timestamp": 1714674600
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 164,
+        "name": "B. Davies",
+        "photo": "https://media.api-sports.io/football/players/164.png",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035530,
+        "timezone": "UTC",
+        "date": "2024-05-05T15:30:00+00:00",
+        "timestamp": 1714923000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18932,
+        "name": "F. Forster",
+        "photo": "https://media.api-sports.io/football/players/18932.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035530,
+        "timezone": "UTC",
+        "date": "2024-05-05T15:30:00+00:00",
+        "timestamp": 1714923000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035530,
+        "timezone": "UTC",
+        "date": "2024-05-05T15:30:00+00:00",
+        "timestamp": 1714923000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035530,
+        "timezone": "UTC",
+        "date": "2024-05-05T15:30:00+00:00",
+        "timestamp": 1714923000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 204039,
+        "name": "D. Udogie",
+        "photo": "https://media.api-sports.io/football/players/204039.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035530,
+        "timezone": "UTC",
+        "date": "2024-05-05T15:30:00+00:00",
+        "timestamp": 1714923000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 1166,
+        "name": "T. Werner",
+        "photo": "https://media.api-sports.io/football/players/1166.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035530,
+        "timezone": "UTC",
+        "date": "2024-05-05T15:30:00+00:00",
+        "timestamp": 1714923000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 164,
+        "name": "B. Davies",
+        "photo": "https://media.api-sports.io/football/players/164.png",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035541,
+        "timezone": "UTC",
+        "date": "2024-05-11T14:00:00+00:00",
+        "timestamp": 1715436000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18932,
+        "name": "F. Forster",
+        "photo": "https://media.api-sports.io/football/players/18932.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035541,
+        "timezone": "UTC",
+        "date": "2024-05-11T14:00:00+00:00",
+        "timestamp": 1715436000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035541,
+        "timezone": "UTC",
+        "date": "2024-05-11T14:00:00+00:00",
+        "timestamp": 1715436000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035541,
+        "timezone": "UTC",
+        "date": "2024-05-11T14:00:00+00:00",
+        "timestamp": 1715436000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 204039,
+        "name": "D. Udogie",
+        "photo": "https://media.api-sports.io/football/players/204039.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035541,
+        "timezone": "UTC",
+        "date": "2024-05-11T14:00:00+00:00",
+        "timestamp": 1715436000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 1166,
+        "name": "T. Werner",
+        "photo": "https://media.api-sports.io/football/players/1166.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035541,
+        "timezone": "UTC",
+        "date": "2024-05-11T14:00:00+00:00",
+        "timestamp": 1715436000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 2413,
+        "name": "Richarlison",
+        "photo": "https://media.api-sports.io/football/players/2413.png",
+        "type": "Questionable",
+        "reason": "Calf Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035541,
+        "timezone": "UTC",
+        "date": "2024-05-11T14:00:00+00:00",
+        "timestamp": 1715436000
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18968,
+        "name": "Y. Bissouma",
+        "photo": "https://media.api-sports.io/football/players/18968.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035512,
+        "timezone": "UTC",
+        "date": "2024-05-14T19:00:00+00:00",
+        "timestamp": 1715713200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 164,
+        "name": "B. Davies",
+        "photo": "https://media.api-sports.io/football/players/164.png",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035512,
+        "timezone": "UTC",
+        "date": "2024-05-14T19:00:00+00:00",
+        "timestamp": 1715713200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18932,
+        "name": "F. Forster",
+        "photo": "https://media.api-sports.io/football/players/18932.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035512,
+        "timezone": "UTC",
+        "date": "2024-05-14T19:00:00+00:00",
+        "timestamp": 1715713200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 2413,
+        "name": "Richarlison",
+        "photo": "https://media.api-sports.io/football/players/2413.png",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035512,
+        "timezone": "UTC",
+        "date": "2024-05-14T19:00:00+00:00",
+        "timestamp": 1715713200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035512,
+        "timezone": "UTC",
+        "date": "2024-05-14T19:00:00+00:00",
+        "timestamp": 1715713200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035512,
+        "timezone": "UTC",
+        "date": "2024-05-14T19:00:00+00:00",
+        "timestamp": 1715713200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 204039,
+        "name": "D. Udogie",
+        "photo": "https://media.api-sports.io/football/players/204039.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035512,
+        "timezone": "UTC",
+        "date": "2024-05-14T19:00:00+00:00",
+        "timestamp": 1715713200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 1166,
+        "name": "T. Werner",
+        "photo": "https://media.api-sports.io/football/players/1166.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035512,
+        "timezone": "UTC",
+        "date": "2024-05-14T19:00:00+00:00",
+        "timestamp": 1715713200
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18968,
+        "name": "Y. Bissouma",
+        "photo": "https://media.api-sports.io/football/players/18968.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035553,
+        "timezone": "UTC",
+        "date": "2024-05-19T15:00:00+00:00",
+        "timestamp": 1716130800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 164,
+        "name": "B. Davies",
+        "photo": "https://media.api-sports.io/football/players/164.png",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035553,
+        "timezone": "UTC",
+        "date": "2024-05-19T15:00:00+00:00",
+        "timestamp": 1716130800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 18932,
+        "name": "F. Forster",
+        "photo": "https://media.api-sports.io/football/players/18932.png",
+        "type": "Missing Fixture",
+        "reason": "Ankle Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035553,
+        "timezone": "UTC",
+        "date": "2024-05-19T15:00:00+00:00",
+        "timestamp": 1716130800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 2413,
+        "name": "Richarlison",
+        "photo": "https://media.api-sports.io/football/players/2413.png",
+        "type": "Missing Fixture",
+        "reason": "Calf Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035553,
+        "timezone": "UTC",
+        "date": "2024-05-19T15:00:00+00:00",
+        "timestamp": 1716130800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 19032,
+        "name": "R. Sessegnon",
+        "photo": "https://media.api-sports.io/football/players/19032.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035553,
+        "timezone": "UTC",
+        "date": "2024-05-19T15:00:00+00:00",
+        "timestamp": 1716130800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 697,
+        "name": "M. Solomon",
+        "photo": "https://media.api-sports.io/football/players/697.png",
+        "type": "Missing Fixture",
+        "reason": "Knee Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035553,
+        "timezone": "UTC",
+        "date": "2024-05-19T15:00:00+00:00",
+        "timestamp": 1716130800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 204039,
+        "name": "D. Udogie",
+        "photo": "https://media.api-sports.io/football/players/204039.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035553,
+        "timezone": "UTC",
+        "date": "2024-05-19T15:00:00+00:00",
+        "timestamp": 1716130800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    },
+    {
+      "player": {
+        "id": 1166,
+        "name": "T. Werner",
+        "photo": "https://media.api-sports.io/football/players/1166.png",
+        "type": "Missing Fixture",
+        "reason": "Thigh Injury"
+      },
+      "team": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png"
+      },
+      "fixture": {
+        "id": 1035553,
+        "timezone": "UTC",
+        "date": "2024-05-19T15:00:00+00:00",
+        "timestamp": 1716130800
+      },
+      "league": {
+        "id": 39,
+        "season": 2023,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg"
+      }
+    }
+  ]
+}
