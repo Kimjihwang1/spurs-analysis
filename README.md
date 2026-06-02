@@ -18,6 +18,8 @@
 
 다음 4가지 가설을 설정하고 검증하였다.
 
+## 프로젝트 구조
+
 ### H1. 토트넘의 실점 수는 리그 최하위권일 것이다.
 
 ✅ 채택
@@ -83,6 +85,38 @@
 
 ---
 
+프로젝트 구조
+spurs-analysis/
+├── data/
+│   ├── spurs_fixtures.json
+│   ├── spurs_stats.json
+│   ├── spurs_injuries.json
+│   ├── all_teams_stats.json
+│   ├── spurs_fixtures_2023.json
+│   ├── spurs_stats_2023.json
+│   ├── spurs_injuries_2023.json
+│   └── all_teams_stats_2023.json
+├── 01_api_test.py
+├── 02_collect_data.py
+├── 03_explore.py
+├── 04_analysis.py
+├── 05_visualization.py
+├── config.py
+├── .env
+└── README.md
+
+| 파일명 | 역할 |
+|---------|---------|
+| `01_api_test.py` | API 연결 테스트 및 응답 확인 |
+| `02_collect_data.py` | API 데이터 수집 및 JSON 저장 |
+| `03_explore.py` | 데이터 탐색 및 기초 통계 확인 |
+| `04_analysis.py` | 가설 검증 분석 |
+| `05_visualization.py` | 분석 결과 시각화 |
+| `config.py` | API 키 및 공통 설정 관리 |
+| `data/` | 수집한 원본 데이터 저장 |
+| `.env` | API Key 저장 (GitHub 업로드 제외) |
+
+---
 ## 주요 시각화
 
 ### 1. 리그 팀별 실점 비교
